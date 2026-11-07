@@ -1,0 +1,6 @@
+streamlit
+google-genai
+tavily-python
+youtube-transcript-api
+python-dotenv
+requests

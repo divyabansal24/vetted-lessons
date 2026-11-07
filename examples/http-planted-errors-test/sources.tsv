@@ -1,0 +1,20 @@
+id	type	reliability	title	url
+S1	web	high	RFC 9110: HTTP Semantics | RFC Editor	https://www.rfc-editor.org/info/rfc9110
+S2	web	low	HTTP methods definitions - DEV Community	https://dev.to/lucianopinheiro/http-methods-definitions-5g4g
+S3	web	high	RFC9110	https://httpwg.org/specs/rfc9110.html
+S4	web	low	GET Vs POST in REST	https://stackoverflow.com/questions/63217885/get-vs-post-in-rest
+S5	web	high	HTTP request methods - HTTP | MDN	https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods
+S6	web	medium	GET vs POST: Understanding HTTP Request Methods	https://blog.postman.com/get-vs-post
+S7	web	high	HTTP messages - HTTP | MDN	https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Messages
+S8	web	high	POST request method - HTTP | MDN	https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/POST
+S9	web	low	HTTP Status Codes: Complete List, Meanings & SEO Impact	https://www.kinexmedia.com/blog/http-status-codes
+S10	web	low	Hypertext Transfer Protocol (HTTP) Status Code Registry	https://www.iana.org/assignments/http-status-codes
+S11	web	high	HTTP response status codes - HTTP | MDN	https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status
+S12	web	low	HTTP status codes | Alibaba Cloud - OpenAPI Explorer - Alibaba Cloud Documentation Center	https://www.alibabacloud.com/help/en/openapi/developer-reference/http-status-codes
+S13	book	medium	HTTP - David Gourley, Brian Totty, Linda Mui (1997)	https://openlibrary.org/works/OL16026044W
+S14	book	medium	HTTP : the Definitive Guide - James Bull (2015)	https://openlibrary.org/works/OL40235625W
+S15	book	medium	HTTP : the Definitive Guide - Thomas Hicks (2015)	https://openlibrary.org/works/OL40632616W
+S16	video	medium	HTTP Status Codes Explained for REST APIs (200, 400, 404, 500)	https://www.youtube.com/watch?v=x2d59rJ7vgo
+S17	video	medium	HTTP Explained: The HTTP Request Status Code Guide (Complete)	https://www.youtube.com/watch?v=VLH3FMQ5BIQ
+S18	video	medium	Learn Postman for API Testing (Step-by-Step Tutorial)	https://www.youtube.com/watch?v=wEOLZq-7DYs
+S19	video	medium	HTTP Status Codes Simply Explained in Flask	https://www.youtube.com/watch?v=EZO2KTaLH80

@@ -1,0 +1,16 @@
+id	type	reliability	title	url
+S1	web	low	BNF Grammar for ISO/IEC 9075-2:2003 - Database Language SQL (SQL-2003) SQL/Foundation	https://ronsavage.github.io/SQL/sql-2003-2.bnf.html
+S2	web	high	ANSI/ISO/IEC International Standard (IS) Database ...	https://web.cecs.pdx.edu/~len/sql1999.pdf
+S3	web	low	MySQL Bugs: #4581: Allow use of *= and =* for outer joins in addition to ANSI standard syntax	https://bugs.mysql.com/bug.php?id=4581
+S4	web	low	Annexe D. Conformité SQL	https://docs.postgresql.fr/9.6/features.html
+S5	web	high	PostgreSQL: Documentation: 18: 7.2. Table Expressions	https://www.postgresql.org/docs/current/queries-table-expressions.html
+S6	web	low	SQL Joins Explained: INNER, LEFT, RIGHT & FULL	https://www.codingtemple.com/blog/sql-joins-explained
+S7	web	high	PostgreSQL: Documentation: 18: 2.6. Joins Between Tables	https://www.postgresql.org/docs/current/tutorial-join.html
+S8	web	low	SQL Joins Explained – INNER, LEFT, RIGHT, and FULL JOIN Diagrams | DbSchema	https://dbschema.com/blog/tutorials/sql-joins-explained
+S9	web	high	MySQL :: MySQL 9.7 Reference Manual :: 15.2.13.2 JOIN Clause	https://dev.mysql.com/doc/en/join.html
+S10	web	low	SQL JOINs Demystified: A Complete Guide to Inner, Left, Right & Full Joins – IT Exams Training – Pass4Sure	https://www.pass4sure.com/blog/sql-joins-demystified-a-complete-guide-to-inner-left-right-full-joins
+S11	web	low	MySQL JOIN types - INNER JOIN, SELF JOIN, CROSS JOIN, FULL OUTER JOIN: LEFT and RIGHT	https://www.devart.com/dbforge/mysql/studio/mysql-joins.html
+S12	video	low	SQL Joins Explained | INNER, LEFT, RIGHT & FULL OUTER JOIN Tutorial	https://www.youtube.com/watch?v=p5XV1m0bDBo
+S13	video	low	SQL Joins Basics (Visually Explained) | INNER, LEFT, RIGHT, FULL | #SQL Course 8	https://www.youtube.com/watch?v=aY7z4HcHm5M
+S14	video	low	Mastering SQL JOINs in Fabric Warehouse INNER, LEFT, RIGHT, FULL, CROSS | Microsoft Fabric Tutorial	https://www.youtube.com/watch?v=W9O69NdYjcg
+S15	video	low	SQL JOINS Tutorial for beginners | Practice SQL Queries using JOINS - Part 1	https://www.youtube.com/watch?v=0OQJDd3QqQM
