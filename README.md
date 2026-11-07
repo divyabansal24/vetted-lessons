@@ -158,10 +158,6 @@ What the test showed and what I changed:
 - Books are listed from catalogue records only; their text is not read.
 - YouTube sometimes blocks caption requests, in which case videos are listed as extra viewing only.
 
-## Credits
+## Built with
 
-- Source-count confidence idea inspired by [klausners/course-builder](https://github.com/klausners/course-builder) (MIT). Idea only, no code used.
-- Instructional audit ideas (prioritised fixes, highest-impact fix) inspired by [Gowtham-Pentela/lectureforge-ai](https://github.com/Gowtham-Pentela/lectureforge-ai). Idea only, no code used.
-- Lesson structure (teach then apply in the same session, work-style tasks) based on Kalvium's public description of how it teaches. No Kalvium content used.
-- Built with Streamlit, Google Gemini API, Groq API, Tavily, youtube-transcript-api and the Open Library API.
-- AI assistance: Claude was used to help write and debug code, as the brief allows.
+Python, Streamlit, Google Gemini API, Groq API, Tavily, youtube-transcript-api and the Open Library API.
