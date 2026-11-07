@@ -30,21 +30,7 @@ Built for the AI Research Intern task (Program Design team).
 
 ## Architecture
 
-```mermaid
-flowchart TD
-    A[Instructor: lesson title + learning objective] --> B[Web search - Tavily]
-    A --> C[YouTube - Tavily + transcripts]
-    A --> D[Books - Open Library]
-    B --> E[Rated sources S1, S2...<br/>high / medium / low reliability]
-    C --> E
-    D --> E
-    E --> F[Lesson generator<br/>45 minutes, cited facts]
-    F --> G[QC 1 - facts<br/>claims vs sources + rule checks]
-    F --> H[QC 2 - teaching<br/>objective coverage + rule checks]
-    G --> I[Instructor review<br/>edit, apply or ignore fixes]
-    H --> I
-    I --> J[Export<br/>lesson, QC reports, sources]
-```
+![Vetted system architecture](docs/architecture.png)
 
 AI steps (query planning, lesson generation, QC 1, QC 2, apply fix) go through `llm.py`, which uses Gemini and falls back to Groq. Every step is saved to `saved/<lesson>/state.json` straight away.
 
