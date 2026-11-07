@@ -41,13 +41,13 @@ Built for the AI Research Intern task (Program Design team).
 
 ## Live demo
 
-A hosted copy runs on Streamlit Community Cloud: **LIVE_LINK**
+A hosted copy runs on Streamlit Community Cloud: **https://vetted-divya.streamlit.app**
 
 The full experience is the local version (see Setup). The hosted copy is for a quick look, and has these limits:
 
 - **Saved lessons are not permanent.** Free hosting resets its storage when the app restarts or goes to sleep, so download anything you want to keep from the Preview and export tab.
 - **It sleeps when nobody uses it.** The first visit after a break can take up to a minute to wake up.
-- **YouTube transcripts may be missing.** YouTube often blocks caption requests from cloud servers, so videos may show "Transcript: no" and are listed as extra viewing only.
+- **YouTube transcripts and books may be missing.** YouTube often blocks caption requests from cloud servers, and book search can return fewer matches, so videos may show "Transcript: no" and are listed as extra viewing only.
 - **Free AI limits are shared.** It runs on free Gemini and Groq tiers with daily limits. If they run out, the step shows a clear message and can be retried later.
 - **Each step takes 20 seconds to a couple of minutes,** because every step makes one or more AI calls.
 

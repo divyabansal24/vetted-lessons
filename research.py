@@ -214,7 +214,8 @@ def run(title, objective):
 
     sources = web + books + videos
     if not sources:
-        raise RuntimeError("Research found nothing. Check the Tavily key and your internet connection, then try again.")
+        details = " | ".join(w[:200] for w in warnings) or "no details"
+        raise RuntimeError(f"Research found nothing. Details: {details}")
     for n, s in enumerate(sources, 1):
         s["id"] = f"S{n}"
     return {"queries": plan, "sources": sources, "warnings": warnings}
